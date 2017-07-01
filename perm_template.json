@@ -1,0 +1,5 @@
+{
+  "account":"read",
+  "pol":"write",
+  "users":"write"
+}
